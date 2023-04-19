@@ -1,0 +1,10 @@
+C:\Users\badfr\source\repos\Project Lab 4 GUI\bin\Debug\Project Lab 4 GUI.exe.config
+C:\Users\badfr\source\repos\Project Lab 4 GUI\bin\Debug\Project Lab 4 GUI.exe
+C:\Users\badfr\source\repos\Project Lab 4 GUI\bin\Debug\Project Lab 4 GUI.pdb
+C:\Users\badfr\source\repos\Project Lab 4 GUI\obj\Debug\Project Lab 4 GUI.csproj.AssemblyReference.cache
+C:\Users\badfr\source\repos\Project Lab 4 GUI\obj\Debug\Project_Lab_4_GUI.Form1.resources
+C:\Users\badfr\source\repos\Project Lab 4 GUI\obj\Debug\Project_Lab_4_GUI.Properties.Resources.resources
+C:\Users\badfr\source\repos\Project Lab 4 GUI\obj\Debug\Project Lab 4 GUI.csproj.GenerateResource.cache
+C:\Users\badfr\source\repos\Project Lab 4 GUI\obj\Debug\Project Lab 4 GUI.csproj.CoreCompileInputs.cache
+C:\Users\badfr\source\repos\Project Lab 4 GUI\obj\Debug\Project Lab 4 GUI.exe
+C:\Users\badfr\source\repos\Project Lab 4 GUI\obj\Debug\Project Lab 4 GUI.pdb
